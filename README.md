@@ -1,1 +1,2 @@
 # test-automate
+Sample text
